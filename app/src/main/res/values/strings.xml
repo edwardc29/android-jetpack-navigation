@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android-jetpack-navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="content_first_fragment">First fragment</string>
+    <string name="content_second_fragment">Second fragment</string>
+    <string name="content_third_fragment">Third fragment</string>
+</resources>
